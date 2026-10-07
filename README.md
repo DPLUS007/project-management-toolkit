@@ -6,6 +6,16 @@ This repository is a practical demonstration of how I structure and govern techn
 
 The artifacts are designed around a project lifecycle and are particularly relevant to **ERP/COTS implementations, enterprise technology transformation, digital delivery, PMO/project coordination and business systems initiatives**.
 
+## Working code project
+
+### [ERP/COTS Rollout Readiness Checker](tools/rollout-readiness/README.md)
+
+A dependency-free Python tool that reads site readiness from CSV, flags blockers, and produces text or JSON reports. Includes sample data and automated tests.
+
+### [Multi-Site ERP/COTS Rollout Playbook](06-Multi-Site-Delivery/Multi-Site-ERP-COTS-Rollout-Playbook.md)
+
+A practical guide to pilot selection, wave planning, site readiness, approval gates, cutover and hypercare.
+
 ## Toolkit at a glance
 
 | Phase | Artifact | What it supports |
