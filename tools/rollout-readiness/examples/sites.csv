@@ -1,0 +1,4 @@
+site,data,uat,training,support,blocker
+Pilot A,green,amber,green,green,
+Wave 1 B,red,amber,amber,green,Duplicate supplier records
+Wave 1 C,green,green,green,green,
